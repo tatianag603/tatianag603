@@ -1,6 +1,6 @@
 ## Hola, Soy Tatiana 👋
 
-Soy Tester en formación con sólidos conocimientos en metodologías ágiles, fundamentos de pruebas de software y uso básico de herramientas como Selenium, Python, Postman, SQL, y JIRA. Capacitado en la identificación y documentación de errores, diseño de casos de prueba y conceptos de automatización.
+Soy Junior QA tester con sólidos conocimientos en metodologías ágiles, fundamentos de pruebas de software y uso básico de herramientas como Selenium, Python, Postman, SQL, y JIRA. Capacitado en la identificación y documentación de errores, diseño de casos de prueba y conceptos de automatización.
 
 **Habilidades Tecnicas**
 
